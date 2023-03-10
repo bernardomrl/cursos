@@ -9,3 +9,4 @@
 | 04 | Introdução ao JavaScript | [Certificado](https://hermes.digitalinnovation.one/certificates/D064AAF1.pdf) | Março / 2023 |
 | 05 | Variáveis e Tipos com JavaScript | [Certificado](https://hermes.digitalinnovation.one/certificates/8DE7969A.pdf) | Março / 2023 |
 | 06 | Sintaxe e Operadores JavaScript| [Certificado](https://hermes.digitalinnovation.one/certificates/627C7194.pdf) | Março / 2023 |
+| 07 | Sintaxe Básica em JavaScript | [Certificado](https://hermes.digitalinnovation.one/certificates/C5B433CC.pdf) | Março / 2023 |
